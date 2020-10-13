@@ -37,7 +37,7 @@
 		<jsp.version>2.2.1-b03</jsp.version>
 		<servlet.version>2.5</servlet.version>
 
-		<junit.version>4.13</junit.version>
+		<junit.version>4.13.1</junit.version>
 	</properties>
 	<dependencies>
 		<!-- spring核心包 -->
